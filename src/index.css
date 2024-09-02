@@ -26,6 +26,9 @@ body {
 
 .ordered-list{
   padding: 2px 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .list {
@@ -56,6 +59,10 @@ button {
   text-align: center;
 }
 
+.heading{
+  color: white;
+  text-align: center;
+}
 
 
 
